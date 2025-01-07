@@ -1,0 +1,3 @@
+# React Native Import Path Bug
+
+This repository demonstrates a common error in React Native applications: incorrect import paths.  The `bug.js` file showcases the problematic code, while `bugSolution.js` presents the corrected version. This issue typically results in a runtime error or a warning indicating that a module cannot be found.  The solution involves verifying and adjusting the import path to accurately reflect the component's location within the project's file structure.
